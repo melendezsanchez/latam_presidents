@@ -1,4 +1,4 @@
-# A Dataset of Latin American Presidents, 1990-2018 (v2.0)
+# A Dataset of Latin American Presidents, 1990-2019 (v2.0)
 ####  Creator: Manuel A. Meléndez-Sánchez (mmelend@g.harvard.edu)
 #### Updated: July 24, 2019 (16:05 EDT)
 
