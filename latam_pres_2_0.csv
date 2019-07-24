@@ -1,0 +1,163 @@
+"term_id","country_name","country_code","hog_last","hog_first","term_c","term_t","term_start_year","term_end_year","party_full","party_short","party_id","path_in","path_out","dd_pop","dc_camp","dc_gov","dc_switch","tp_lr","tp_score","tp_cat","ll_pop"
+"arg_menem_89","Argentina","ARG","Menem","Carlos",1,1,1989,1995,"Justicialist Party","PJ","pj_arg",0,1,NA,0,1,1,NA,NA,NA,NA
+"arg_menem_95","Argentina","ARG","Menem","Carlos",2,2,1995,1999,"Justicialist Party","PJ","pj_arg",1,0,0,1,1,0,NA,NA,NA,NA
+"arg_de_99","Argentina","ARG","De la Rua","Fernando",1,1,1999,2001,"Radical Civic Union","UCR","ucr_arg",0,5,0,1,1,0,0,"0.2","Not populist",NA
+"arg_puerta_01","Argentina","ARG","Puerta","Ramon",1,1,2001,2001,"Justicialist Party","PJ","pj_arg",2,8,0,NA,NA,NA,NA,NA,NA,NA
+"arg_rodriguez_01","Argentina","ARG","Rodriguez Sala","Adolfo",1,1,2001,2001,"Justicialist Party","PJ","pj_arg",2,5,0,NA,NA,NA,NA,NA,NA,NA
+"arg_camaño_01","Argentina","ARG","Camaño","Eduardo",1,1,2001,2002,"Justicialist Party","PJ","pj_arg",2,8,0,NA,NA,NA,NA,NA,NA,NA
+"arg_duhalde_02","Argentina","ARG","Duhalde","Eduardo",1,1,2002,2003,"Justicialist Party","PJ","pj_arg",2,5,0,NA,NA,NA,0,"0.5","Somewhat populist",NA
+"arg_kirchner_03","Argentina","ARG","Kirchner","Nestor",1,1,2003,2007,"Justicialist Party","PJ","pj_arg",0,3,1,0,0,0,-1,"0.3","Not populist",NA
+"arg_fernandez_07","Argentina","ARG","Fernandez de Kirchner","Cristina",1,1,2007,2011,"Justicialist Party","PJ","pj_arg",0,1,0,NA,NA,NA,-1,"0.0","Not populist",NA
+"arg_fernandez_11","Argentina","ARG","Fernandez de Kirchner","Cristina",2,2,2011,2015,"Justicialist Party","PJ","pj_arg",1,0,NA,NA,NA,NA,-1,"0.0","Not populist",NA
+"arg_macri_15","Argentina","ARG","Macri","Mauricio",1,1,2015,NA,"Republican Proposal","PRO","pro_arg",0,9,NA,NA,NA,NA,1,"0.0","Not populist",NA
+"bol_paz_89","Bolivia","BOL","Paz Zamora","Jaime ",1,1,1989,1993,"Revolutionary Left Movement","MIR","mir_bol",4,0,NA,0,1,1,NA,NA,NA,NA
+"bol_sanchez_93","Bolivia","BOL","Sanchez de Lozada","Gonzalo",1,1,1993,1997,"Revolutionary Left Movement","MIR","mir_bol",0,0,NA,1,1,0,NA,NA,NA,0
+"bol_banzer_97","Bolivia","BOL","Banzer","Hugo",1,2,1997,2001,"Nationalist Democratic Action","AND","and_bol",0,5,0,1,1,0,NA,NA,NA,0
+"bol_quiroga_01","Bolivia","BOL","Quiroga","Jorge Antonio",1,1,2001,2002,"Nationalist Democratic Action","AND","and_bol",2,0,0,2,NA,NA,NA,NA,NA,NA
+"bol_sanchez_02","Bolivia","BOL","Sanchez de Lozada","Gonzalo",1,2,2002,2003,"Revolutionary Nationalist Movevement","MNR","mnr_bol",0,5,0,1,1,0,0,"0.2","Not populist",0
+"bol_mesa_03","Bolivia","BOL","Mesa","Carlos",1,1,2003,2005,"Independent","IND","ind_bol",2,5,0,NA,NA,NA,0,"0.1","Not populist",NA
+"bol_rodriguez_05","Bolivia","BOL","Rodriguez Sala","Eduardo",1,1,2005,2006,"Independent","IND","ind_bol",2,0,0,NA,NA,NA,NA,NA,NA,NA
+"bol_morales_06","Bolivia","BOL","Morales","Evo",1,1,2006,2009,"Movement for Socialism","MAS","mas_bol",0,0,1,0,0,0,-1,"1.5","Very Populist",2
+"bol_morales_09","Bolivia","BOL","Morales","Evo",2,2,2009,2014,"Movement for Socialism","MAS","mas_bol",0,0,NA,NA,NA,NA,-1,"1.0","Populist",2
+"bol_morales_14","Bolivia","BOL","Morales","Evo",3,3,2014,NA,"Movement for Socialism","MAS","mas_bol",0,0,NA,NA,NA,NA,-1,"1.5","Very Populist",NA
+"bra_collor_90","Brazil","BRA","Collor de Mello","Fernando",1,1,1990,1992,"Brazilian National Reconstruction Party","PRN","prn_bra",0,6,NA,1,1,0,NA,NA,NA,NA
+"bra_franco_92","Brazil","BRA","Franco","Itamar",1,1,1992,1994,"Brazilian Democratic Movement Party","PMDB","pmdb_bra",2,0,NA,2,NA,NA,NA,NA,NA,NA
+"bra_cardoso_95","Brazil","BRA","Cardoso","Fernando Henrique",1,1,1995,1998,"Brazilian Social Democratic Party","PSDB","psdb_bra",0,1,0,1,1,0,NA,NA,NA,NA
+"bra_cardoso_99","Brazil","BRA","Cardoso","Fernando Henrique",2,2,1999,2002,"Brazilian Social Democratic Party","PSDB","psdb_bra",1,0,0,1,1,0,0,"0.0","Not populist",NA
+"bra_da_03","Brazil","BRA","Da Silva","Luiz Inacio Lula",1,1,2003,2006,"Brazilian Workers' Party","PT","pt_bra",0,1,0,0,1,1,-1,"0.3","Not populist",NA
+"bra_da_07","Brazil","BRA","Da Silva","Luiz Inacio Lula",2,2,2007,2010,"Brazilian Workers' Party","PT","pt_bra",1,0,0,1,1,0,-1,"0.3","Not populist",NA
+"bra_rousseff_11","Brazil","BRA","Rousseff","Dilma",1,1,2011,2014,"Brazilian Workers' Party","PT","pt_bra",0,1,NA,NA,NA,NA,-1,"0.0","Not populist",NA
+"bra_rousseff_15","Brazil","BRA","Rousseff","Dilma",2,2,2015,2016,"Brazilian Workers' Party","PT","pt_bra",1,6,NA,NA,NA,NA,-1,"0.3","Not populist",NA
+"bra_temer_16","Brazil","BRA","Temer","Michel",1,1,2016,2018,"Brazilian Democratic Movement Party","PMDB","pmdb_bra",2,1,NA,NA,NA,NA,0,"0.0","Not populist",NA
+"bra_bolsonaro_19","Brazil","BRA","Bolsonaro","Jair",1,1,2019,NA,"Brazilian Social Liberal Party","PSL","psl_bra",1,9,NA,NA,NA,NA,1,"0.5","Somewhat populist",NA
+"chi_pinochet_73","Chile","CHI","Pinochet","Augusto",NA,NA,1973,1990,"Independent","IND","ind_chi",3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chi_aylwin_90","Chile","CHI","Aylwin","Patricio",1,1,1990,1994,"Christian Democratic Party","PDC","pdc_chi",0,0,NA,1,1,0,NA,NA,NA,NA
+"chi_frei_94","Chile","CHI","Frei Ruiz-Tagle","Eduardo",1,1,1994,2000,"Christian Democratic Party","PDC","pdc_chi",0,0,NA,1,1,0,NA,NA,NA,NA
+"chi_lagos_00","Chile","CHI","Lagos","Ricardo",1,1,2000,2006,"Party for Democracy","PPD","ppd_chi",0,0,0,1,1,0,-1,"0.1","Not populist",NA
+"chi_bachelet_06","Chile","CHI","Bachelet","Michelle",1,1,2006,2010,"Socialist Party of Chile","PS","ps_chi",0,0,0,1,1,0,-1,"0.0","Not populist",NA
+"chi_pinera_10","Chile","CHI","Pinera","Sebastian",1,1,2010,2014,"National Renewal","RN","rn_chi",0,0,NA,NA,NA,NA,1,"0.0","Not populist",NA
+"chi_bachelet_14","Chile","CHI","Bachelet","Michelle",1,2,2014,2018,"Socialist Party of Chile","PS","ps_chi",0,0,NA,NA,NA,NA,-1,"0.2","Not populist",NA
+"chi_pinera_18","Chile","CHI","Pinera","Sebastian",1,2,2018,NA,"Chile Vamos Coalition","CVC","cvc_chi",0,9,NA,NA,NA,NA,1,"0.2","Not populist",NA
+"col_barco_86","Colombia","COL","Barco Vargas","Virgilio",1,1,1986,1990,"Colombian Liberal Party","PLC","plc_col",0,0,NA,0,0,0,NA,NA,NA,NA
+"col_gaviria_90","Colombia","COL","Gaviria Trujillo","Cesar",1,1,1990,1994,"Colombian Liberal Party","PLC","plc_col",0,0,NA,1,1,0,NA,NA,NA,NA
+"col_samper_94","Colombia","COL","Samper Pizano","Ernesto",1,1,1994,1998,"Colombian Liberal Party","PLC","plc_col",0,0,NA,0,0,0,NA,NA,NA,NA
+"col_pastrana_98","Colombia","COL","Pastrana Arango","Andres",1,1,1998,2002,"Colombian Conservative Party","PCC","pcc_col",0,0,0,1,1,0,1,"0.0","Not populist",NA
+"col_uribe_02","Colombia","COL","Uribe Velez","Alvaro",1,1,2002,2006,"Colombia First","CFP","cfp_col",0,1,1,1,1,0,1,"0.0","Not populist",NA
+"col_uribe_06","Colombia","COL","Uribe Velez","Alvaro",2,2,2006,2010,"Colombia First","CFP","cfp_col",1,0,1,1,1,0,1,"0.0","Not populist",NA
+"col_santos_10","Colombia","COL","Santos Calderon","Juan Manuel",1,1,2010,2014,"Social Party of National Unity","PNUS","pnus_col",0,1,NA,NA,NA,NA,0,"0.0","Not populist",NA
+"col_santos_14","Colombia","COL","Santos Calderon","Juan Manuel",2,2,2014,2018,"Social Party of National Unity","PNUS","pnus_col",0,0,NA,NA,NA,NA,0,"0.1","Not populist",NA
+"col_duque_18","Colombia","COL","Duque Marquez","Ivan",1,1,2018,NA,"Democratic Centre","CDC","cdc_col",0,9,NA,NA,NA,NA,NA,NA,NA,NA
+"crc_arias_86","Costa Rica","CRC","Arias Sanchez","Oscar",1,1,1986,1990,"National Liberation","NLP","nlp_crc",0,0,NA,0,1,1,NA,NA,NA,NA
+"crc_calderon_90","Costa Rica","CRC","Calderon Fournier","Rafael",1,1,1990,1994,"Social Christian Unity","PUSC","pusc_crc",0,0,NA,0,1,1,NA,NA,NA,NA
+"crc_figueres_94","Costa Rica","CRC","Figueres Olsen","Jose",1,1,1994,1998,"National Liberation","NLP","nlp_crc",0,0,NA,0,1,1,NA,NA,NA,NA
+"crc_rodriguez_98","Costa Rica","CRC","Rodriguez Echeverria","Miguel",1,1,1998,2002,"Social Christian Unity","PUSC","pusc_crc",0,0,0,1,1,0,1,"0.1","Not populist",NA
+"crc_pacheco_02","Costa Rica","CRC","Pacheco de la Espriella","Abel",1,1,2002,2006,"Social Christian Unity","PUSC","pusc_crc",0,0,0,1,1,0,1,"0.2","Not populist",NA
+"crc_arias_06","Costa Rica","CRC","Arias Sanchez","Oscar",1,2,2006,2010,"National Liberation","NLP","nlp_crc",0,0,0,1,1,0,0,"0.0","Not populist",NA
+"crc_chinchilla_10","Costa Rica","CRC","Chinchilla Miranda","Laura",1,1,2010,2014,"National Liberation","NLP","nlp_crc",0,0,NA,NA,NA,NA,0,"0.0","Not populist",NA
+"crc_solis_14","Costa Rica","CRC","Solis Rivera","Luis Guillermo",1,1,2014,2018,"Citizens' Action","PAC","pac_crc",0,0,NA,NA,NA,NA,-1,"0.4","Not populist",NA
+"crc_alvardo_18","Costa Rica","CRC","Alvardo Quesada","Carlos",1,1,2018,NA,"Citizens' Action","PAC","pac_crc",0,9,NA,NA,NA,NA,NA,NA,NA,NA
+"dom_balaguer_86","Dominican Republic","DOM","Balaguer","Joaquin",1,5,1986,1990,"Social Christian Reformist Party","PRSC","prsc_dom",0,1,NA,1,1,0,NA,NA,NA,NA
+"dom_balaguer_90","Dominican Republic","DOM","Balaguer","Joaquin",2,6,1990,1994,"Social Christian Reformist Party","PRSC","prsc_dom",1,1,NA,0,1,1,NA,NA,NA,NA
+"dom_balaguer_94","Dominican Republic","DOM","Balaguer","Joaquin",3,7,1994,1996,"Social Christian Reformist Party","PRSC","prsc_dom",1,3,NA,1,1,0,NA,NA,NA,NA
+"dom_fernandez_96","Dominican Republic","DOM","Fernandez","Leonel",1,1,1996,2000,"Dominican Liberation Party","PLD","pld_dom",0,0,0,1,1,0,NA,NA,NA,NA
+"dom_mejia_00","Dominican Republic","DOM","Mejia","Hipolito",1,1,2000,2004,"Dominican Revolution Party","PRD","prd_dom",0,2,0,0,1,1,0,"0.1","Not populist",NA
+"dom_fernandez_04","Dominican Republic","DOM","Fernandez","Leonel",1,2,2004,2008,"Dominican Liberation Party","PLD","pld_dom",0,1,0,1,1,0,1,"0.3","Not populist",NA
+"dom_fernandez_08","Dominican Republic","DOM","Fernandez","Leonel",2,3,2008,2012,"Dominican Liberation Party","PLD","pld_dom",1,0,0,NA,NA,NA,1,"0.3","Not populist",NA
+"dom_medina_12","Dominican Republic","DOM","Medina","Danilo",1,1,2012,2016,"Dominican Liberation Party","PLD","pld_dom",0,1,NA,NA,NA,NA,1,"0.2","Not populist",NA
+"dom_medina_16","Dominican Republic","DOM","Medina","Danilo",2,2,2016,NA,"Dominican Liberation Party","PLD","pld_dom",1,9,NA,NA,NA,NA,1,"0.4","Not populist",NA
+"ecu_borja_88","Ecuador","ECU","Borja Cevallos","Rodrigo",1,1,1988,1992,"Democratic Left","ID","id_ecu",0,0,NA,0,1,1,NA,NA,NA,NA
+"ecu_duran_92","Ecuador","ECU","Duran Ballen","Sixto",1,1,1992,1996,"Republican Unity Party","PUR","pur_ecu",0,0,NA,1,1,0,NA,NA,NA,0
+"ecu_bucaram_96","Ecuador","ECU","Bucaram","Abdala",1,1,1996,1997,"Ecuadorian Roldosist Party","PRE","pre_ecu",0,7,1,0,1,1,NA,NA,NA,3
+"ecu_arteaga_97","Ecuador","ECU","Arteaga","Rosalia",1,1,1997,1997,"Independent Movement for an Authentic Republic","MIRA","mira_ecu",7,7,0,2,NA,NA,NA,NA,NA,NA
+"ecu_alarcon_97","Ecuador","ECU","Alarcon","Fabian",1,1,1997,1998,"Alfarista Radical Front","FRA","fra_ecu",7,0,0,2,NA,NA,NA,NA,NA,NA
+"ecu_mahuad_98","Ecuador","ECU","Mahuad","Jamil",1,1,1998,2000,"Popular Democracy","DP","dp_ecu",0,7,0,1,1,0,NA,NA,NA,0
+"ecu_noboa_00","Ecuador","ECU","Noboa","Gustavo",1,1,2000,2003,"Popular Democracy","DP","dp_ecu",2,0,0,2,NA,NA,0,"0.2","Not populist",NA
+"ecu_gutierrez_03","Ecuador","ECU","Gutierrez","Lucio",1,1,2003,2005,"Patriotic Society Party","PSP","psp_ecu",0,7,1,0,1,1,0,"1.0","Populist",1
+"ecu_palacio_05","Ecuador","ECU","Palacio","Alfredo",1,1,2005,2007,"Independet","IND","ind_ecu",2,0,0,2,NA,NA,0,"0.4","Not populist",NA
+"ecu_correa_07","Ecuador","ECU","Correa","Rafael",1,1,2007,2009,"PAIS Alliance","PAIS","pais_ecu",0,1,1,0,0,0,-1,"1.3","Populist",1
+"ecu_correa_09","Ecuador","ECU","Correa","Rafael",2,2,2009,2013,"PAIS Alliance","PAIS","pais_ecu",1,1,NA,NA,NA,NA,-1,"1.7","Very Populist",1
+"ecu_correa_13","Ecuador","ECU","Correa","Rafael",3,3,2013,2017,"PAIS Alliance","PAIS","pais_ecu",1,0,NA,NA,NA,NA,-1,"1.5","Very Populist",NA
+"ecu_moreno_17","Ecuador","ECU","Moreno","Lenin",1,1,2017,NA,"PAIS Alliance","PAIS","pais_ecu",0,9,NA,NA,NA,NA,-1,"0.2","Not populist",NA
+"sal_cristiani_89","El Salvador","SAL","Cristiani","Alfredo",1,1,1989,1994,"Republican Nationalist Alliance","ARENA","arena_sal",0,0,NA,1,1,0,NA,NA,NA,NA
+"sal_calderon_94","El Salvador","SAL","Calderon Sol","Armando",1,1,1994,1999,"Republican Nationalist Alliance","ARENA","arena_sal",0,0,NA,1,1,0,NA,NA,NA,NA
+"sal_flores_99","El Salvador","SAL","Flores Perez","Francisco",1,1,1999,2004,"Republican Nationalist Alliance","ARENA","arena_sal",0,0,0,1,1,0,1,"0.0","Not populist",NA
+"sal_saca_04","El Salvador","SAL","Saca","Antonio",1,1,2004,2009,"Republican Nationalist Alliance","ARENA","arena_sal",0,0,0,1,1,0,1,"0.6","Somewhat populist",NA
+"sal_funes_09","El Salvador","SAL","Funes","Mauricio",1,1,2009,2014,"Farabundo Marti National Liberation Front","FMLN","fmln_sal",0,0,NA,NA,NA,NA,-1,"0.6","Somewhat populist",NA
+"sal_sanchez_14","El Salvador","SAL","Sanchez Ceren","Salvador",1,1,2014,2019,"Farabundo Marti National Liberation Front","FMLN","fmln_sal",0,0,NA,NA,NA,NA,-1,"0.6","Somewhat populist",NA
+"sal_bukele_19","El Salvador","SAL","Bukele","Nayib",1,1,2019,NA,"Grand Alliance for National Unity","GANA","gana_sal",0,9,NA,NA,NA,NA,NA,NA,NA,NA
+"gua_cerezco_86","Guatemala","GUA","Cerezco Arevalo","Marco Vinicio",1,1,1986,1991,"Guatemala Christian Democracy","DCG","dcg_gua",0,0,NA,0,1,1,NA,NA,NA,NA
+"gua_serrano_91","Guatemala","GUA","Serrano Elias","Jorge Antonio",1,1,1991,1993,"Solidarity Action Movement","MAS","mas_gua",0,5,NA,1,1,0,NA,NA,NA,NA
+"gua_espina_93","Guatemala","GUA","Espina Salguero","Gustavo Adolfo",1,1,1993,1993,"Solidarity Action Movement","MAS","mas_gua",2,5,NA,2,NA,NA,NA,NA,NA,NA
+"gua_de_93","Guatemala","GUA","De Leon Carpio","Ramiro",1,1,1993,1996,"Independent","IND","ind_gua",2,0,NA,2,NA,NA,NA,NA,NA,NA
+"gua_arzu_96","Guatemala","GUA","Arzu Irigoyen","Alvaro Enrique",1,1,1996,2000,"National Advancement Party","PAN","pan_gua",0,0,0,1,1,0,NA,NA,NA,NA
+"gua_portillo_00","Guatemala","GUA","Portillo Cabrera","Alfonso Antonio",1,1,2000,2004,"Guatemalan Republican Front","FRG","frg_gua",0,0,0,1,1,0,NA,NA,NA,NA
+"gua_berger_04","Guatemala","GUA","Berger Perdomo","Oscar Rafael",1,1,2004,2008,"Grand National Alliance","GANA","gana_gua",0,0,0,1,1,0,1,"0.0","Not populist",NA
+"gua_colom_08","Guatemala","GUA","Colom Caballeros","Alvaro",1,1,2008,2012,"National Unity of Hope","UNE","une_gua",0,0,0,NA,NA,NA,0,"0.1","Not populist",NA
+"gua_perez_12","Guatemala","GUA","Perez Molina","Otto Fernando",1,1,2012,2015,"Patriotic Party","PP","pp_gua",0,5,NA,NA,NA,NA,1,"0.3","Not populist",NA
+"gua_maldonado_15","Guatemala","GUA","Maldonado Aguirre","Alejandro Baltasar",1,1,2015,2016,"Independent","IND","ind_gua",2,0,NA,NA,NA,NA,NA,NA,NA,NA
+"gua_morales_16","Guatemala","GUA","Morales Cabrera","Jimmy Ernesto",1,1,2016,NA,"National Convergence Front","FCN","fcn_gua",0,9,NA,NA,NA,NA,1,"0.1","Not populist",NA
+"hon_azcona_86","Honduras","HON","Azcona del Hoyo","Jose",1,1,1986,1990,"Liberal Party","PLH","plh_hon",0,0,NA,1,1,0,NA,NA,NA,NA
+"hon_callejas_90","Honduras","HON","Callejas Romero","Rafael Leonardo",1,1,1990,1994,"National Party","PNH","pnh_hon",0,0,NA,1,1,0,NA,NA,NA,NA
+"hon_reina_94","Honduras","HON","Reina","Carlos Roberto",1,1,1994,1998,"Liberal Party","PLH","plh_hon",0,0,NA,0,1,1,NA,NA,NA,NA
+"hon_flores_98","Honduras","HON","Flores","Carlos Roberto",1,1,1998,2002,"Liberal Party","PLH","plh_hon",0,0,0,1,1,0,1,"0.1","Not populist",NA
+"hon_maduro_02","Honduras","HON","Maduro","Ricardo",1,1,2002,2006,"National Party","PNH","pnh_hon",0,0,0,1,1,0,0,"0.0","Not populist",NA
+"hon_zelaya_06","Honduras","HON","Zelaya","Manuel",1,1,2006,2009,"Liberal Party","PLH","plh_hon",0,7,0,1,1,0,-1,"0.5","Somewhat populist",NA
+"hon_micheletti_09","Honduras","HON","Micheletti","Roberto",1,1,2009,2010,"Liberal Party","PLH","plh_hon",2,0,NA,NA,NA,NA,NA,NA,NA,NA
+"hon_lobo_10","Honduras","HON","Lobo Sosa","Porfirio",1,1,2010,2014,"National Party","PNH","pnh_hon",0,0,NA,NA,NA,NA,0,"0.3","Not populist",NA
+"hon_hernandez_14","Honduras","HON","Hernandez","Juan Orlando",1,1,2014,NA,"National Party","PNH","pnh_hon",0,9,NA,NA,NA,NA,0,"0.5","Somewhat populist",NA
+"mex_salinas_88","Mexico","MEX","Salinas de Gortari","Carlos",1,1,1988,1994,"Institutional Revolunary Party","PRI","pri_mex",0,0,NA,1,1,0,NA,NA,NA,NA
+"mex_zedillo_94","Mexico","MEX","Zedillo","Ernesto",1,1,1994,2000,"Institutional Revolunary Party","PRI","pri_mex",0,0,NA,1,1,0,NA,NA,NA,NA
+"mex_fox_00","Mexico","MEX","Fox","Vicente",1,1,2000,2006,"National Action Party","PAN","pan_mex",0,0,0,1,1,0,1,"0.3","Not populist",NA
+"mex_calderon_06","Mexico","MEX","Calderon","Felipe",1,1,2006,2012,"National Action Party","PAN","pan_mex",0,0,0,1,1,0,1,"0.1","Not populist",NA
+"mex_pena_12","Mexico","MEX","Pena Nieto","Enrique",1,1,2012,2018,"Institutional Revolunary Party","PRI","pri_mex",0,0,NA,NA,NA,NA,0,"0.0","Not populist",NA
+"mex_lopez_18","Mexico","MEX","Lopez Obrado","Andres Manuel",1,1,2018,NA,"National Regenaration Movement","MORENA","morena_mex",0,9,NA,NA,NA,NA,-1,"1.0","Populist",NA
+"nic_ortega_85","Nicaragua","NIC","Ortega","Daniel",1,1,1985,1990,"Sandinista National Liberation Front","FSLN","fsln_nic",0,2,NA,NA,NA,NA,NA,NA,NA,NA
+"nic_chamorro_90","Nicaragua","NIC","Chamorro","Violeta",1,1,1990,1997,"National Opposition Union","UNO","uno_nic",0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"nic_aleman_97","Nicaragua","NIC","Aleman","Arnoldo",1,1,1997,2002,"Constitutionalist Liberal Party","PLC","plc_nic",0,0,0,1,1,0,NA,NA,NA,NA
+"nic_bolanos_02","Nicaragua","NIC","Bolanos","Enrique",1,1,2002,2007,"Constitutionalist Liberal Party","PLC","plc_nic",0,0,0,1,1,0,1,"0.0","Not populist",NA
+"nic_ortega_07","Nicaragua","NIC","Ortega","Daniel",1,2,2007,2012,"Sandinista National Liberation Front","FSLN","fsln_nic",0,1,0,1,1,0,0,"1.3","Populist",NA
+"nic_ortega_12","Nicaragua","NIC","Ortega","Daniel",2,3,2012,2017,"Sandinista National Liberation Front","FSLN","fsln_nic",1,1,NA,NA,NA,NA,0,"1.0","Populist",NA
+"nic_ortega_17","Nicaragua","NIC","Ortega","Daniel",3,4,2017,NA,"Sandinista National Liberation Front","FSLN","fsln_nic",1,9,NA,NA,NA,NA,0,"0.9","Somewhat populist",NA
+"pan_endara_89","Panama","PAN","Endara","Guillermo",1,1,1989,1994,"Panamenista Party","PP","pp_pan",0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"pan_perez_94","Panama","PAN","Perez Balladares","Ernesto",1,1,1994,1999,"Democratic Revolutionary Party","PRD","prd_pan",0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"pan_moscoso_99","Panama","PAN","Moscoso","Mireya",1,1,1999,2004,"Panamenista Party","PP","pp_pan",0,0,0,NA,NA,NA,NA,NA,NA,NA
+"pan_torrijos_04","Panama","PAN","Torrijos","Martin",1,1,2004,2009,"Democratic Revolutionary Party","PRD","prd_pan",0,0,0,NA,NA,NA,0,"0.2","Not populist",NA
+"pan_martinelli_09","Panama","PAN","Martinelli","Ricardo",1,1,2009,2014,"Democratic Change","CD","cd_pan",0,0,NA,NA,NA,NA,1,"0.5","Somewhat populist",NA
+"pan_varela_14","Panama","PAN","Varela","Juan Carlos",1,1,2014,2019,"Panamenista Party","PRD","prd_pan",0,0,NA,NA,NA,NA,1,"0.3","Not populist",NA
+"pan_cortizo_19","Panama","PAN","Cortizo","Laurentino",1,1,2019,NA,"Democratic Revolutionary Party","PRD","prd_pan",0,9,NA,NA,NA,NA,NA,NA,NA,NA
+"par_rodriguez_89","Paraguay","PAR","Rodriguez","Andres",2,2,1989,1993,"National Republic Association - Colorado Party","ANR","anr_par",0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"par_wasmosy_93","Paraguay","PAR","Wasmosy","Juan Carlos",1,1,1993,1998,"National Republic Association - Colorado Party","ANR","anr_par",0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"par_cubas_98","Paraguay","PAR","Cubas","Raul",1,1,1998,1999,"National Republic Association - Colorado Party","ANR","anr_par",0,5,0,NA,NA,0,NA,NA,NA,NA
+"par_gonzalez_99","Paraguay","PAR","Gonzalez Macchi","Luis Angel",1,1,1999,2003,"National Republic Association - Colorado Party","ANR","anr_par",2,0,0,NA,NA,0,NA,NA,NA,NA
+"par_duarte_03","Paraguay","PAR","Duarte","Nicanor",1,1,2003,2008,"National Republic Association - Colorado Party","ANR","anr_par",0,0,0,NA,NA,0,0,"0.5","Somewhat populist",NA
+"par_lugo_08","Paraguay","PAR","Lugo","Fernando",1,1,2008,2012,"Christian Democratic Party","CDP","cdp_par",0,6,1,NA,NA,0,-1,"0.0","Not populist",NA
+"par_franco_12","Paraguay","PAR","Franco","Federico",1,1,2012,2013,"Authentic Radical Liberal Party","PLRA","plra_par",2,0,NA,NA,NA,NA,1,"0.0","Not populist",NA
+"par_cartes_13","Paraguay","PAR","Cartes","Horacio",1,1,2013,2018,"National Republic Association - Colorado Party","ANR","anr_par",0,0,NA,NA,NA,NA,0,"0.2","Not populist",NA
+"par_abdo_18","Paraguay","PAR","Abdo Benitez","Mario",1,1,2018,NA,"National Republic Association - Colorado Party","ANR","anr_par",0,9,NA,NA,NA,NA,NA,NA,NA,NA
+"per_garcia_85","Peru","PER","Garcia Perez","Alan",1,1,1985,1990,"American Popular Revolutionary Alliance","APRA","apra_per",0,0,NA,0,0,0,NA,NA,NA,NA
+"per_fujimori_90","Peru","PER","Fujimori","Alberto",1,1,1990,1995,"Change 90","C90","c90_per",0,1,NA,0,1,1,NA,NA,NA,1
+"per_fujimori_95","Peru","PER","Fujimori","Alberto",2,2,1995,2000,"Change 90","C90","c90_per",1,1,0,1,1,0,NA,NA,NA,1
+"per_fujimori_00","Peru","PER","Fujimori","Alberto",3,3,2000,2000,"Let's Go Neighbor","LGN","lgn_per",1,5,0,NA,NA,NA,NA,NA,NA,1
+"per_paniagua_00","Peru","PER","Paniagua Corazao","Valentin",1,1,2000,2001,"Popular Action","APP","app_per",2,0,0,2,NA,NA,NA,NA,NA,NA
+"per_toledo_01","Peru","PER","Toledo Manrique","Alejandro",1,1,2001,2006,"Possible Peru","PPP","ppp_per",0,0,0,1,1,0,NA,NA,NA,0
+"per_garcia_06","Peru","PER","Garcia Perez","Alan",2,2,2006,2011,"American Popular Revolutionary Alliance","APRA","apra_per",0,0,0,1,1,0,0,"0.3","Not populist",0
+"per_humala_11","Peru","PER","Humala Tasso","Ollanta",1,1,2011,2016,"Peruvian Nationalist Party","PNP","pnp_per",0,0,NA,NA,NA,NA,0,"1.0","Populist",NA
+"per_kuczynski_16","Peru","PER","Kuczynski Godard","Pedo Pablo",1,1,2016,2018,"Peruvians for Change","PPK","ppk_per",0,5,NA,NA,NA,NA,-1,"0.6","Somewhat populist",NA
+"per_vizcarra_18","Peru","PER","Vizcarra Cornejo","Martin",1,1,2018,NA,"Peruvians for Change","PPK","ppk_per",2,9,NA,NA,NA,NA,0,"0.0","Not populist",NA
+"uru_sanguinetti_85","Uruguay","URU","Sanguinetti","Julio Maria",1,1,1985,1990,"Colorado Party","PCU","pcu_uru",0,0,NA,1,1,0,NA,NA,NA,NA
+"uru_lacalle_90","Uruguay","URU","Lacalle","Luis Alberto",1,1,1990,1995,"National Party","PNU","pnu_uru",0,0,NA,1,1,0,NA,NA,NA,NA
+"uru_sanguinetti_95","Uruguay","URU","Sanguinetti","Julio Maria",1,2,1995,2000,"Colorado Party","PCU","pcu_uru",0,0,0,1,1,0,NA,NA,NA,NA
+"uru_batlle_00","Uruguay","URU","Batlle","Jorge Antonio",1,1,2000,2005,"Colorado Party","PCU","pcu_uru",0,0,0,1,1,0,1,"0.2","Not populist",NA
+"uru_vasquez_05","Uruguay","URU","Vasquez","Tabare",1,1,2005,2010,"Broad Front","FAU","fau_uru",0,0,0,1,1,0,-1,"0.3","Not populist",NA
+"uru_mujica_10","Uruguay","URU","Mujica","Jose",1,1,2010,2015,"Broad Front","FAU","fau_uru",0,0,NA,NA,NA,NA,-1,"0.1","Not populist",NA
+"uru_vasquez_15","Uruguay","URU","Vasquez","Tabare",1,2,2015,NA,"Broad Front","FAU","fau_uru",0,9,NA,NA,NA,NA,-1,"0.2","Not populist",NA
+"ven_perez_89","Venezuela","VEN","Perez","Carlos Andres",1,2,1989,1993,"Democratic Action","ADV","adv_ven",0,6,NA,0,1,1,NA,NA,NA,NA
+"ven_lepage_93","Venezuela","VEN","Lepage","Octavio",1,1,1993,1993,"Democratic Action","ADV","adv_ven",2,NA,NA,2,NA,NA,NA,NA,NA,NA
+"ven_velasquez_93","Venezuela","VEN","Velasquez","Ramon Jose",1,1,1993,1994,"Democratic Action","ADV","adv_ven",2,0,NA,2,NA,NA,NA,NA,NA,NA
+"ven_caldera_94","Venezuela","VEN","Caldera","Rafael",1,2,1994,1999,"National Convergence","CNV","cnv_ven",0,0,NA,0,0,0,NA,NA,NA,3
+"ven_chavez_99","Venezuela","VEN","Chavez","Hugo",1,1,1999,2001,"Fifth Republic Movement","MVR","mvr_ven",0,1,1,0,1,1,-1,"1.9","Very Populist",1
+"ven_chavez_01","Venezuela","VEN","Chavez","Hugo",2,2,2001,2007,"Fifth Republic Movement","MVR","mvr_ven",1,1,1,0,0,0,-1,"1.9","Very Populist",1
+"ven_chavez_07","Venezuela","VEN","Chavez","Hugo",3,3,2007,2013,"Fifth Republic Movement","MVR","mvr_ven",1,1,0,0,0,0,-1,"1.8","Very Populist",1
+"ven_chavez_13","Venezuela","VEN","Chavez","Hugo",4,4,2013,2013,"United Socialist Party of Venezuela","PSUV","psuv_ven",1,4,NA,NA,NA,NA,-1,"1.7","Very Populist",NA
+"ven_maduro_13a","Venezuela","VEN","Maduro","Nicolas",1,1,2013,2013,"United Socialist Party of Venezuela","PSUV","psuv_ven",2,1,NA,NA,NA,NA,-1,"1.6","Very Populist",NA
+"ven_maduro_13b","Venezuela","VEN","Maduro","Nicolas",2,2,2013,NA,"United Socialist Party of Venezuela","PSUV","psuv_ven",1,9,NA,NA,NA,NA,NA,NA,NA,NA
