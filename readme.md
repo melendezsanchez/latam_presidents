@@ -7,7 +7,7 @@ Meléndez-Sánchez, Manuel. 2019. *A Dataset of Latin American Presidents, 1990-
 
 ## B. Overview
 
-This dataset includes information about the 162 presidents who were in power for at least 24 hours between January 1, 1990 and July 23, 2019 in 18 Latin American countries: 
+This dataset includes information about the 162 presidential terms that lasted for more than 24 hours between January 1, 1990 and July 23, 2019 in 18 Latin American countries: 
 
 1. Argentina
 2. Bolivia
